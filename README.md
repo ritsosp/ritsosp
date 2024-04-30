@@ -1,4 +1,4 @@
-### Hi there 👋 - I am Panos
+### Hello there 👋 - I am Panos
 
 I am a Senior Lecturer (Associate Professor) in Visualization at [Bangor University](https://www.bangor.ac.uk/) in North Wales, UK. I lead the [XReality, Visualization and Analytics](https://xrvalab.github.io/) lab.
 
